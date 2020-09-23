@@ -1,5 +1,5 @@
 _repo: Viagem-ao-norte-do-Brazil-feita-nos-annos-1613-a-1614-pelo-Padre-Ivo-D-Evreux_63258
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   annotator:
     agent_name: Diniz, Ferdinand
@@ -9,12 +9,17 @@ contributor:
     agent_name: Marques, Cesar Augusto
     gutenberg_agent_id: '52350'
     url: http://www.gutenberg.org/2009/agents/52350
+covers:
+- cover_type: archival
+  image_path: 63258-h/images/cover.jpg
 creator:
   author:
     agent_name: D'Evreux, Ivo
     gutenberg_agent_id: '52348'
     url: http://www.gutenberg.org/2009/agents/52348
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63258#Viagem-ao-norte-do-Brazil-feita-nos-annos-1613-a-1614-pelo-Padre-Ivo-D-Evreux
 gutenberg_issued: '2020-09-21'
 gutenberg_type: Text
 identifiers:
